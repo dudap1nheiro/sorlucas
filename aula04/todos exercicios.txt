@@ -1,0 +1,28 @@
+[?2004l
+Hello World
+5 = 3 ? false
+5 != 3 ? true
+5  =  3 ? false
+5 != 3 ? true
+5 > 3 ? true
+5 < 3 ? false
+5 >= 3 ? true
+5 <= 3 ? false
+.............
+
+true
+false
+false
+false
+cão
+false
+false 
+..............
+true
+true
+true
+false
+gato
+gato
+gato
+[?2004h
