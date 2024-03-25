@@ -26,3 +26,68 @@ gato
 gato
 gato
 [?2004h
+
+********************************************
+
+var idade = 18;
+var status = idade >= 18?"adulto":"menor de idade";
+print(status);
+
+var idade = 16;
+var status = idade >= 18?"adulto":"menor de idade";
+print(status);
+
+var pl1='alfa';
+var pl2='beto';
+resuldado=pl1+pl2;
+print(resuldado)
+
+var a = 15;
+var b = 15
+
+if ((a >10 && a < 20) || b ==5)
+print('true');
+else
+print('false');
+
+var a = 10
+var b = 5
+
+if (( a > 10 )|| b ==5)
+print ('true');
+else
+print('false');
+
+var a = 15;
+var b = 5;
+var c = 10;
+
+if ((a > 10 && a < 20) || b == 5 ||c ==10)
+print("true")
+else
+print("false")
+
+var a = 15;
+var b = 5;
+var c = 10;
+
+if((a > 10) || b ==5 !== c==10)
+print("true")
+else
+print("false")
+
+
+var a = 15;
+var b = 5;
+var c = 10;
+var d = 10;
+if(a > 10 || b ==5 && c!==10 && d!==20)
+print("true");
+else
+print("false");
+********************************************************
+true
+true
+true
+true
+true
